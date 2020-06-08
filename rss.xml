@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Dushusir</title>
+        <link>https://dushusir.github.io/blog/</link>
+        <description></description>
+        <lastBuildDate>Mon, 08 Jun 2020 05:21:12 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <item>
+            <title><![CDATA[gnvm切换node版本]]></title>
+            <link>https://dushusir.github.io/blog/2020/06/08/gnvm-change-node-version/</link>
+            <guid>https://dushusir.github.io/blog/2020/06/08/gnvm-change-node-version/</guid>
+            <pubDate>Mon, 08 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[为了不影响其他项目,可以采取管理多个node版本的方法,跟多版本python类似]]></description>
+        </item>
+    </channel>
+</rss>
